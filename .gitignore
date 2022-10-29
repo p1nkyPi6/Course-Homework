@@ -99,6 +99,7 @@ StyleCopReport.xml
 *.scc
 
 # VS solution files
+*.filters
 *.vcxproj
 *.sln
 
