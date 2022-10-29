@@ -5,7 +5,8 @@
 объявление в main.cpp.
 
 Текст программы:
-	#include &ltiostream&gt 
+	
+	#include <iostream>
 
 	int getInteger() 
 	{ 
