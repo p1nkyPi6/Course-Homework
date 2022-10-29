@@ -1,7 +1,7 @@
 ﻿#include <iostream>
 
-int doubleNumber(int value) {
-    
+int doubleNumber(int value)
+{
     return value * 2;
 }
 
