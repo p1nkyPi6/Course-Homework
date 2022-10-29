@@ -1,6 +1,12 @@
-﻿#include <iostream>
+﻿#include<iostream>
+
+int getInteger();
 
 int main()
 {
-    std::cout << "Hello World!\n";
+	int x = getInteger();
+	int y = getInteger();
+
+	std::cout << x << " + " << y << " is " << x + y << '\n';
+	return 0;
 }
